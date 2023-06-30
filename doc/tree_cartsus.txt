@@ -1,0 +1,19 @@
+cartsus
+├── doc
+│   ├── 00_projeto.aux
+│   ├── 00_projeto.bbl
+│   ├── 00_projeto.fdb_latexmk
+│   ├── 00_projeto.fls
+│   ├── 00_projeto.log
+│   ├── 00_projeto.pdf
+│   ├── 00_projeto.synctex.gz
+│   ├── 00_projeto.tex
+│   ├── 01_Introdução.tex
+│   ├── 02_Objetivos.tex
+│   ├── 03_Metodologia.tex
+│   ├── 04_RevisãoBibliográfica.tex
+│   └── 10_bibliografia.bib
+├── LICENSE
+├── README.md
+└── scripts
+    └── 00_estrutura.ps1

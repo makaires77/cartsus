@@ -1,0 +1,48 @@
+\documentclass{article}
+
+\usepackage[portuguese]{babel} % Configura o idioma para português do Brasil
+\usepackage{microtype}
+\usepackage{makeidx}
+\usepackage{tocloft}
+\usepackage[a4paper,left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{setspace}
+
+\pagenumbering{roman} % Inicia a numeração das páginas em algarismos romanos
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    \vspace*{1cm} % Espaçamento vertical
+    {\large \textbf{Universidade de Fortaleza - UNIFOR}\\ Programa de Pós-graduação em Computação Aplicada - PPGIA}
+      
+    \title{Graph Machine Learning aplicado ao Aprendizado Por Reforço para Suporte à Inovação e Desenvolvimento Tecnológico}
+    
+    \vspace*{4cm} % Espaço vertical até o nome do autor
+    \author{Antonio Marcos Aires Barbosa} % Autor
+
+    \date{\today}
+\end{titlepage}
+
+\maketitle
+
+\clearpage
+\tableofcontents
+
+\clearpage
+\pagenumbering{arabic} % Reinicia a numeração das páginas em algarismos arábicos
+
+\input{01_introdução.tex}
+
+\input{02_objetivos.tex}
+
+\input{03_metodologia.tex}
+
+\input{04_revisão-bibliográfica.tex}
+
+% Adicione mais \input{} para outros capítulos, se necessário
+
+\bibliographystyle{abntex2-alf}
+\bibliography{bibliografia.bib}
+
+\end{document}

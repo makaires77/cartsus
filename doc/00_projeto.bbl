@@ -1,0 +1,26 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Sutton e Barto 1998]{SuttonBarto1998}
+\abntrefinfo{Sutton e Barto}{SUTTON; BARTO}{1998}
+{SUTTON, R.~S.; BARTO, A.~G. \emph{Reinforcement Learning: An Introduction}. 1st edition. ed. [S.l.]: MIT Press, 1998.}
+
+\bibitem[Weng e Ghassemi 2020]{Weng2020}
+\abntrefinfo{Weng e Ghassemi}{WENG; GHASSEMI}{2020}
+{WENG, P.~S. W.-H.; GHASSEMI, M. Digital health: Challenges and future directions after covid-19.
+\emph{Nature Medicine}, 2020.}
+
+\bibitem[Wu Shirui~Pan e Yu 2020]{Zhang2020}
+\abntrefinfo{Wu Shirui~Pan e Yu}{WU SHIRUI~PAN; YU}{2020}
+{WU SHIRUI~PAN, F. C. G. L. C.~Z. Z.; YU, P.~S. A comprehensive survey on graph neural networks.
+\emph{IEEE Transactions on Neural Networks and Learning Systems}, 2020.}
+
+\bibitem[You Bowen~Liu e Leskovec 2018]{You2018}
+\abntrefinfo{You Bowen~Liu e Leskovec}{YOU BOWEN~LIU; LESKOVEC}{2018}
+{YOU BOWEN~LIU, Z. Y. V.~P. J.; LESKOVEC, J. Graph convolutional policy network for goal-directed molecular graph generation. In:  \emph{Advances in Neural Information Processing Systems}. [S.l.: s.n.], 2018.}
+
+\end{thebibliography}
