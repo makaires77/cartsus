@@ -2,11 +2,11 @@
 \contentsline {section}{\numberline {1}Introdução}{1}{}%
 \contentsline {section}{\numberline {2}Programação Dinâmica: Algoritmos, Benefícios, Vantagens e Desvantagens}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Sistemas de recomendação}{2}{}%
-\contentsline {section}{\numberline {3}Algoritmos em programação dinâmica}{3}{}%
-\contentsline {subsection}{\numberline {3.1}Algoritmos clássicos}{3}{}%
+\contentsline {section}{\numberline {3}Algoritmos em programação dinâmica}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Algoritmos clássicos}{2}{}%
 \contentsline {subsubsection}{\numberline {3.1.1}Benefícios e Vantagens}{3}{}%
 \contentsline {subsubsection}{\numberline {3.1.2}Desvantagens}{3}{}%
-\contentsline {subsection}{\numberline {3.2}Outros algoritmos em Programação Dinâmica}{4}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Árvore de Junção Dinâmica}{4}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}Programação Dinâmica Aproximada}{4}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}Algoritmo Fast-DT}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Outros algoritmos em Programação Dinâmica}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Árvore de Junção Dinâmica}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Programação Dinâmica Aproximada}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Algoritmo Fast-DT}{3}{}%

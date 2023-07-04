@@ -8,33 +8,33 @@
 \usepackage{setspace}
 \onehalfspacing
 
-\pagenumbering{roman} % Inicia a numeração das páginas em algarismos romanos
-
 \begin{document}
-\begin{spacing}{1.5}
 
 \begin{titlepage}
     \centering
     \vspace*{1cm} % Espaçamento vertical
     {\large \textbf{Universidade de Fortaleza - UNIFOR}\\ Programa de Pós-graduação em Computação Aplicada - PPGIA}
       
-    \title{Graph Machine Learning aplicado ao Aprendizado Por Reforço para Suporte à Inovação e Desenvolvimento Tecnológico}
+    \vspace*{4cm} % Espaço vertical até o nome do autor
+    
+    \begin{spacing}{1.5}
+    \Large \textbf{Graph Machine Learning aplicado ao Aprendizado Por Reforço para Suporte à Inovação e Desenvolvimento Tecnológico}
+    \end{spacing}
     
     \vspace*{4cm} % Espaço vertical até o nome do autor
-    \author{Antonio Marcos Aires Barbosa} % Autor
+    
+    {\large Antonio Marcos Aires Barbosa} % Autor
 
-    \date{\today}
+    \vfill % Preenchimento vertical
+    
+    {\large \today} % Data
 \end{titlepage}
 
-\maketitle
-
-\clearpage
 \tableofcontents
 
 \clearpage
 \pagenumbering{arabic} % Reinicia a numeração das páginas em algarismos arábicos
 
-\
 \input{01_introdução.tex}
 
 \input{02_objetivos.tex}
@@ -48,5 +48,4 @@
 \bibliographystyle{abntex2-alf}
 \bibliography{bibliografia.bib}
 
-\end{spacing}
 \end{document}
