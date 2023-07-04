@@ -6,10 +6,12 @@
 \usepackage{tocloft}
 \usepackage[a4paper,left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
 \usepackage{setspace}
+\onehalfspacing
 
 \pagenumbering{roman} % Inicia a numeração das páginas em algarismos romanos
 
 \begin{document}
+\begin{spacing}{1.5}
 
 \begin{titlepage}
     \centering
@@ -32,6 +34,7 @@
 \clearpage
 \pagenumbering{arabic} % Reinicia a numeração das páginas em algarismos arábicos
 
+\
 \input{01_introdução.tex}
 
 \input{02_objetivos.tex}
@@ -45,4 +48,5 @@
 \bibliographystyle{abntex2-alf}
 \bibliography{bibliografia.bib}
 
+\end{spacing}
 \end{document}

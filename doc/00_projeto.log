@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.14)  30 JUN 2023 16:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.14)  4 JUL 2023 08:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -132,33 +132,33 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 ) (./00_projeto.aux)
 \openout1 = `00_projeto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Info: Redefining \microtypecontext on input line 12.
-Package microtype Info: Applying patch `item' on input line 12.
-Package microtype Info: Applying patch `toc' on input line 12.
-Package microtype Info: Applying patch `eqnum' on input line 12.
-Package microtype Info: Applying patch `footnote' on input line 12.
-Package microtype Info: Applying patch `verbatim' on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Info: Redefining \microtypecontext on input line 13.
+Package microtype Info: Applying patch `item' on input line 13.
+Package microtype Info: Applying patch `toc' on input line 13.
+Package microtype Info: Applying patch `eqnum' on input line 13.
+Package microtype Info: Applying patch `footnote' on input line 13.
+Package microtype Info: Applying patch `verbatim' on input line 13.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 12.
+LaTeX Info: Redefining \showhyphens on input line 13.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -203,11 +203,11 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 27.
+(Font)              <12> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 27.
+(Font)              <8> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
+(Font)              <6> on input line 29.
  [1]
 No file 00_projeto.toc.
 \tf@toc=\write3
@@ -222,48 +222,50 @@ LaTeX Warning: Citation `SuttonBarto1998' on page 1 undefined on input line 8.
 
 LaTeX Warning: Citation `Zhang2020' on page 1 undefined on input line 8.
 
-
-LaTeX Warning: Citation `You2018' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `Weng2020' on page 1 undefined on input line 10.
-
-) (./02_objetivos.tex
-
-LaTeX Warning: Citation `Zhang2020' on page 1 undefined on input line 1.
-
-) (./03_metodologia.tex) (./04_revisão-bibliográfica.tex [1
+[1
 
 ]
 
+LaTeX Warning: Citation `You2018' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation `Weng2020' on page 2 undefined on input line 10.
+
+) (./02_objetivos.tex
+
+LaTeX Warning: Citation `Zhang2020' on page 2 undefined on input line 1.
+
+) (./03_metodologia.tex) (./04_revisão-bibliográfica.tex
+
 LaTeX Warning: Citation `bellman1957dynamic' on page 2 undefined on input line 3.
-
-
-LaTeX Warning: Citation `cormen2009introduction' on page 2 undefined on input line 12.
-
-
-LaTeX Warning: Citation `dijkstra1959note' on page 2 undefined on input line 14.
-
-
-LaTeX Warning: Citation `cormen2009introduction' on page 2 undefined on input line 14.
-
-
-LaTeX Warning: Citation `bellman1957dynamic' on page 2 undefined on input line 18.
-
-
-LaTeX Warning: Citation `cormen2009introduction' on page 2 undefined on input line 22.
 
 [2]
 
-LaTeX Warning: Citation `murphy1999loopy' on page 3 undefined on input line 30.
+LaTeX Warning: Citation `cormen2009introduction' on page 3 undefined on input line 12.
 
 
-LaTeX Warning: Citation `powell2007approximate' on page 3 undefined on input line 34.
+LaTeX Warning: Citation `dijkstra1959note' on page 3 undefined on input line 14.
 
 
-LaTeX Warning: Citation `li2018fast' on page 3 undefined on input line 38.
+LaTeX Warning: Citation `cormen2009introduction' on page 3 undefined on input line 14.
 
-) (./00_projeto.bbl) [3] (./00_projeto.aux)
+
+LaTeX Warning: Citation `bellman1957dynamic' on page 3 undefined on input line 18.
+
+
+LaTeX Warning: Citation `cormen2009introduction' on page 3 undefined on input line 22.
+
+[3]
+
+LaTeX Warning: Citation `murphy1999loopy' on page 4 undefined on input line 30.
+
+
+LaTeX Warning: Citation `powell2007approximate' on page 4 undefined on input line 34.
+
+
+LaTeX Warning: Citation `li2018fast' on page 4 undefined on input line 38.
+
+) (./00_projeto.bbl) [4] (./00_projeto.aux)
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
@@ -277,18 +279,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4816 strings out of 475734
- 80819 string characters out of 5786229
- 1867753 words of memory out of 5000000
- 25460 multiletter control sequences out of 15000+600000
+ 4818 strings out of 475734
+ 80877 string characters out of 5786229
+ 1862753 words of memory out of 5000000
+ 25462 multiletter control sequences out of 15000+600000
  520706 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,1453b,215s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,1453b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 00_projeto.pdf (6 pages, 113533 bytes).
+Output written on 00_projeto.pdf (7 pages, 114450 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 58 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  20481 words of extra memory for PDF output out of 20736 (max. 10000000)
 
