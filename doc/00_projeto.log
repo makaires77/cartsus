@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.14)  4 JUL 2023 09:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.14)  4 JUL 2023 10:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -68,42 +68,6 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 )) (c:/texlive/2023/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
-) (c:/texlive/2023/texmf-dist/tex/latex/tocloft/tocloft.sty
-Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
-Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip51
-\cftbeforetoctitleskip=\skip52
-\cftaftertoctitleskip=\skip53
-\cftbeforepartskip=\skip54
-\cftpartnumwidth=\skip55
-\cftpartindent=\skip56
-\cftbeforesecskip=\skip57
-\cftsecindent=\skip58
-\cftsecnumwidth=\skip59
-\cftbeforesubsecskip=\skip60
-\cftsubsecindent=\skip61
-\cftsubsecnumwidth=\skip62
-\cftbeforesubsubsecskip=\skip63
-\cftsubsubsecindent=\skip64
-\cftsubsubsecnumwidth=\skip65
-\cftbeforeparaskip=\skip66
-\cftparaindent=\skip67
-\cftparanumwidth=\skip68
-\cftbeforesubparaskip=\skip69
-\cftsubparaindent=\skip70
-\cftsubparanumwidth=\skip71
-\cftbeforeloftitleskip=\skip72
-\cftafterloftitleskip=\skip73
-\cftbeforefigskip=\skip74
-\cftfigindent=\skip75
-\cftfignumwidth=\skip76
-\c@lofdepth=\count198
-\c@lotdepth=\count199
-\cftbeforelottitleskip=\skip77
-\cftafterlottitleskip=\skip78
-\cftbeforetabskip=\skip79
-\cfttabindent=\skip80
-\cfttabnumwidth=\skip81
 ) (c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -111,9 +75,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count266
-\Gm@cntv=\count267
-\c@Gm@tempcnt=\count268
+\Gm@cnth=\count198
+\Gm@cntv=\count199
+\c@Gm@tempcnt=\count266
 \Gm@bindingoffset=\dimen143
 \Gm@wd@mp=\dimen144
 \Gm@odd@mp=\dimen145
@@ -127,38 +91,38 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count269
+\l__color_backend_stack_int=\count267
 \l__pdf_internal_box=\box52
 ) (./00_projeto.aux)
 \openout1 = `00_projeto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Info: Redefining \microtypecontext on input line 11.
-Package microtype Info: Applying patch `item' on input line 11.
-Package microtype Info: Applying patch `toc' on input line 11.
-Package microtype Info: Applying patch `eqnum' on input line 11.
-Package microtype Info: Applying patch `footnote' on input line 11.
-Package microtype Info: Applying patch `verbatim' on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Info: Redefining \microtypecontext on input line 10.
+Package microtype Info: Applying patch `item' on input line 10.
+Package microtype Info: Applying patch `toc' on input line 10.
+Package microtype Info: Applying patch `eqnum' on input line 10.
+Package microtype Info: Applying patch `footnote' on input line 10.
+Package microtype Info: Applying patch `verbatim' on input line 10.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 11.
+LaTeX Info: Redefining \showhyphens on input line 10.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -206,22 +170,25 @@ No file 00_projeto.toc.
 \tf@toc=\write3
 \openout3 = `00_projeto.toc'.
 
-[1] (./01_introdução.tex
+[1
+
+] (./01_introdução.tex
 
 LaTeX Warning: Citation `SuttonBarto1998' on page 1 undefined on input line 8.
 
 
 LaTeX Warning: Citation `Zhang2020' on page 1 undefined on input line 8.
 
+[1
 
-LaTeX Warning: Citation `You2018' on page 1 undefined on input line 10.
+]
+
+LaTeX Warning: Citation `You2018' on page 2 undefined on input line 10.
 
 
-LaTeX Warning: Citation `Weng2020' on page 1 undefined on input line 10.
+LaTeX Warning: Citation `Weng2020' on page 2 undefined on input line 10.
 
-) [1
-
-] (./02_objetivos.tex
+) (./02_objetivos.tex
 
 LaTeX Warning: Citation `Zhang2020' on page 2 undefined on input line 1.
 
@@ -232,29 +199,30 @@ LaTeX Warning: Citation `bellman1957dynamic' on page 2 undefined on input line 3
 
 LaTeX Warning: Citation `cormen2009introduction' on page 2 undefined on input line 12.
 
-
-LaTeX Warning: Citation `dijkstra1959note' on page 2 undefined on input line 14.
-
-
-LaTeX Warning: Citation `cormen2009introduction' on page 2 undefined on input line 14.
-
 [2]
+
+LaTeX Warning: Citation `dijkstra1959note' on page 3 undefined on input line 14.
+
+
+LaTeX Warning: Citation `cormen2009introduction' on page 3 undefined on input line 14.
+
 
 LaTeX Warning: Citation `bellman1957dynamic' on page 3 undefined on input line 18.
 
 
 LaTeX Warning: Citation `cormen2009introduction' on page 3 undefined on input line 22.
 
+[3]
 
-LaTeX Warning: Citation `murphy1999loopy' on page 3 undefined on input line 30.
-
-
-LaTeX Warning: Citation `powell2007approximate' on page 3 undefined on input line 34.
+LaTeX Warning: Citation `murphy1999loopy' on page 4 undefined on input line 30.
 
 
-LaTeX Warning: Citation `li2018fast' on page 3 undefined on input line 38.
+LaTeX Warning: Citation `powell2007approximate' on page 4 undefined on input line 34.
 
-) (./00_projeto.bbl [3]) [4] (./00_projeto.aux)
+
+LaTeX Warning: Citation `li2018fast' on page 4 undefined on input line 38.
+
+) (./00_projeto.bbl) [4] (./00_projeto.aux)
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
@@ -268,18 +236,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4762 strings out of 475734
- 80052 string characters out of 5786229
- 1864753 words of memory out of 5000000
- 25426 multiletter control sequences out of 15000+600000
- 517663 words of font info for 82 fonts, out of 8000000 for 9000
+ 4500 strings out of 475734
+ 75950 string characters out of 5786229
+ 1862753 words of memory out of 5000000
+ 25159 multiletter control sequences out of 15000+600000
+ 518489 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,1453b,180s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,1453b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 00_projeto.pdf (6 pages, 101359 bytes).
+Output written on 00_projeto.pdf (6 pages, 101475 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 14337 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 18433 words of extra memory for PDF output out of 20736 (max. 10000000)
 
