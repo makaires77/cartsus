@@ -12,12 +12,8 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: bibliografia.bib
-Warning--I didn't find a database entry for "bellman1957dynamic"
-Warning--I didn't find a database entry for "cormen2009introduction"
 Warning--I didn't find a database entry for "dijkstra1959note"
 Warning--I didn't find a database entry for "murphy1999loopy"
-Warning--I didn't find a database entry for "powell2007approximate"
-Warning--I didn't find a database entry for "li2018fast"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Name 1 in "Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and Philip S. Yu" has a comma at the end for entry Zhang2020
 while executing---line 2091 of file abntex2-alf.bst
@@ -123,45 +119,45 @@ while executing---line 2146 of file abntex2-alf.bst
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 4 entries,
+You've used 8 entries,
             6714 wiz_defined-function locations,
-            1224 strings with 10101 characters,
-and the built_in function-call counts, 3643 in all, are:
-= -- 394
-> -- 129
-< -- 1
-+ -- 95
-- -- 40
-* -- 248
-:= -- 556
-add.period$ -- 14
-call.type$ -- 4
-change.case$ -- 44
-chr.to.int$ -- 7
-cite$ -- 4
-duplicate$ -- 142
-empty$ -- 223
-format.name$ -- 188
-if$ -- 834
+            1244 strings with 10608 characters,
+and the built_in function-call counts, 6826 in all, are:
+= -- 627
+> -- 252
+< -- 3
++ -- 140
+- -- 77
+* -- 473
+:= -- 983
+add.period$ -- 27
+call.type$ -- 8
+change.case$ -- 85
+chr.to.int$ -- 14
+cite$ -- 8
+duplicate$ -- 308
+empty$ -- 476
+format.name$ -- 365
+if$ -- 1595
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 72
-newline$ -- 26
-num.names$ -- 20
-pop$ -- 129
+missing$ -- 150
+newline$ -- 43
+num.names$ -- 40
+pop$ -- 237
 preamble$ -- 1
-purify$ -- 16
+purify$ -- 32
 quote$ -- 0
-skip$ -- 196
+skip$ -- 364
 stack$ -- 1
-substring$ -- 114
-swap$ -- 52
-text.length$ -- 0
+substring$ -- 215
+swap$ -- 123
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 1
 warning$ -- 0
-while$ -- 26
+while$ -- 53
 width$ -- 0
-write$ -- 66
+write$ -- 124
 (There were 48 error messages)

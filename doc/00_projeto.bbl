@@ -5,6 +5,23 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Bellman 1957]{Bellman1957}
+\abntrefinfo{Bellman}{BELLMAN}{1957}
+{BELLMAN, R. \emph{Dynamic Programming}. [S.l.]: Princeton University Press, 1957.}
+
+\bibitem[Cormen et al. 2009]{CormenLeisersonRivestStein2009}
+\abntrefinfo{Cormen et al.}{CORMEN et al.}{2009}
+{CORMEN, T.~H. et al. \emph{Introduction to Algorithms}. 3rd edition. ed. [S.l.]: MIT Press, 2009.}
+
+\bibitem[Li, Chen e Koltun 2018]{Li2018}
+\abntrefinfo{Li, Chen e Koltun}{LI; CHEN; KOLTUN}{2018}
+{LI, Z.; CHEN, Q.; KOLTUN, V. Interactive image segmentation with latent diversity.
+\emph{2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition}, p. 577--585, 2018.}
+
+\bibitem[Powell 2007]{Powell2007}
+\abntrefinfo{Powell}{POWELL}{2007}
+{POWELL, W.~B. \emph{Approximate Dynamic Programming: Solving the Curses of Dimensionality}. [S.l.]: Wiley-Interscience, 2007.}
+
 \bibitem[Sutton e Barto 1998]{SuttonBarto1998}
 \abntrefinfo{Sutton e Barto}{SUTTON; BARTO}{1998}
 {SUTTON, R.~S.; BARTO, A.~G. \emph{Reinforcement Learning: An Introduction}. 1st edition. ed. [S.l.]: MIT Press, 1998.}

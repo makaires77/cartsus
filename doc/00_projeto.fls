@@ -53,12 +53,10 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT 00_projeto.pdf
 INPUT c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT 00_projeto.toc
 INPUT ./01_introdução.tex
 INPUT ./01_introdução.tex

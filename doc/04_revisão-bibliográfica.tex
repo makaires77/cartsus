@@ -1,6 +1,6 @@
 \section{Programação Dinâmica: Algoritmos, Benefícios, Vantagens e Desvantagens}
 
-A programação dinâmica é uma abordagem de otimização matemática de grande importância, empregada com sucesso na resolução de uma variedade de problemas complexos. A estratégia central da programação dinâmica é decompor um problema em uma série de subproblemas menores, resolver estes subproblemas, armazenar suas soluções e, por fim, combinar essas soluções para chegar à resposta para o problema original~\cite{bellman1957dynamic}.
+A programação dinâmica é uma abordagem de otimização matemática de grande importância, empregada com sucesso na resolução de uma variedade de problemas complexos. A estratégia central da programação dinâmica é decompor um problema em uma série de subproblemas menores, resolver estes subproblemas, armazenar suas soluções e, por fim, combinar essas soluções para chegar à resposta para o problema original~\cite{Bellman1957}.
 
 \subsection{Sistemas de recomendação}
 
@@ -9,17 +9,17 @@ Uma classe de aplicações onde o uso desses algoritmos é particularmente útil
 \section{Algoritmos em programação dinâmica}
 \subsection{Algoritmos clássicos}
 
-Alguns algoritmos notáveis incorporam a programação dinâmica, como é o caso do algoritmo de Bellman-Ford, algoritmo de Floyd-Warshall, algoritmo de Dijkstra, algoritmo de Knapsack, algoritmo de corte de hastes, dentre outros. Entre os problemas tratados com esses algoritmos bem conhecidos, que utilizam a programação dinâmica, temos exemplos como o cálculo do caminho mais curto de um vértice a todos os outros vértices em um grafo ponderado com o algoritmo de Bellman-Ford (ABF). Ou de forma semelhante ao algoritmo de Bellman-Ford, também o algoritmo de Floyd-Warshall (AFW) é utilizado para determinar o caminho mais curto em um grafo~\cite{cormen2009introduction}. Porém, enquanto o ABF busca o caminho mais curto de um vértice único para todos os outros vértices, o AFW determina o caminho mais curto entre todos os pares de vértices.
+Alguns algoritmos notáveis incorporam a programação dinâmica, como é o caso do algoritmo de Bellman-Ford, algoritmo de Floyd-Warshall, algoritmo de Dijkstra, algoritmo de Knapsack, algoritmo de corte de hastes, dentre outros. Entre os problemas tratados com esses algoritmos bem conhecidos, que utilizam a programação dinâmica, temos exemplos como o cálculo do caminho mais curto de um vértice a todos os outros vértices em um grafo ponderado com o algoritmo de Bellman-Ford (ABF). Ou de forma semelhante ao algoritmo de Bellman-Ford, também o algoritmo de Floyd-Warshall (AFW) é utilizado para determinar o caminho mais curto em um grafo~\cite{CormenLeisersonRivestStein2009}. Porém, enquanto o ABF busca o caminho mais curto de um vértice único para todos os outros vértices, o AFW determina o caminho mais curto entre todos os pares de vértices.
 
-Já com o algoritmo de Dijkstra, embora semelhante ao de Bellman-Ford na busca do caminho mais curto, os problemas passíveis de tratamento mais eficiente são aqueles cujas situações podem ser modeladas em um grafo que não contêm ciclos de peso negativo~\cite{dijkstra1959note}. Em uma grande quantidade de aplicações possíveis, busca-se soluções ótimas, ou próximas do ótimo, para problemas como o abordado pelo algoritmo de Knapsack (problema da mochila), ou o algoritmo de corte de hastes, ambos sendo utilizados para resolver problemas de otimização de recursos limitados. Porém, enquanto o primeiro se destina a maximizar o valor total que pode ser colocado em uma mochila com capacidade limitada, o segundo visa maximizar o lucro obtido ao cortar uma haste de comprimento fixo em pedaços de comprimentos variados~\cite{cormen2009introduction}.
+Já com o algoritmo de Dijkstra, embora semelhante ao de Bellman-Ford na busca do caminho mais curto, os problemas passíveis de tratamento mais eficiente são aqueles cujas situações podem ser modeladas em um grafo que não contêm ciclos de peso negativo~\cite{dijkstra1959note}. Em uma grande quantidade de aplicações possíveis, busca-se soluções ótimas, ou próximas do ótimo, para problemas como o abordado pelo algoritmo de Knapsack (problema da mochila), ou o algoritmo de corte de hastes, ambos sendo utilizados para resolver problemas de otimização de recursos limitados. Porém, enquanto o primeiro se destina a maximizar o valor total que pode ser colocado em uma mochila com capacidade limitada, o segundo visa maximizar o lucro obtido ao cortar uma haste de comprimento fixo em pedaços de comprimentos variados~\cite{CormenLeisersonRivestStein2009}.
 
 \subsubsection{Benefícios e Vantagens}
 
-Os algoritmos de programação dinâmica proporcionam uma abordagem eficiente para resolver problemas complexos de otimização. Como o tempo de execução desses algoritmos é geralmente polinomial, eles podem lidar com problemas que seriam intratáveis para algoritmos de força bruta. Além disso, graças à memorização, a programação dinâmica evita a redundância de cálculos ao resolver subproblemas sobrepostos~\cite{bellman1957dynamic}.
+Os algoritmos de programação dinâmica proporcionam uma abordagem eficiente para resolver problemas complexos de otimização. Como o tempo de execução desses algoritmos é geralmente polinomial, eles podem lidar com problemas que seriam intratáveis para algoritmos de força bruta. Além disso, graças à memorização, a programação dinâmica evita a redundância de cálculos ao resolver subproblemas sobrepostos~\cite{Bellman1957}.
 
 \subsubsection{Desvantagens}
 
-Por outro lado, a programação dinâmica possui desvantagens. A principal desvantagem é o alto uso de memória, pois a solução para cada subproblema precisa ser armazenada. Além disso, nem todos os problemas de otimização são adequados para programação dinâmica. Os problemas devem possuir as propriedades de sobreposição de subproblemas e subestrutura ótima para que a programação dinâmica seja efetiva~\cite{cormen2009introduction}.
+Por outro lado, a programação dinâmica possui desvantagens. A principal desvantagem é o alto uso de memória, pois a solução para cada subproblema precisa ser armazenada. Além disso, nem todos os problemas de otimização são adequados para programação dinâmica. Os problemas devem possuir as propriedades de sobreposição de subproblemas e subestrutura ótima para que a programação dinâmica seja efetiva~\cite{CormenLeisersonRivestStein2009}.
 
 \subsection{Outros algoritmos em Programação Dinâmica}
 
@@ -31,10 +31,10 @@ Um exemplo notável é a Árvore de Junção Dinâmica, do inglês \textit{Dynam
 
 \subsubsection{Programação Dinâmica Aproximada}
 
-Outra abordagem inovadora é a Programação Dinâmica Aproximada \textit{Approximate Dynamic Programming} (ADP), que procura resolver problemas de decisão sequencial sob incerteza, especialmente em contextos em que o espaço de estados é grande ou contínuo. A ADP faz uso de técnicas de aproximação, como a aprendizagem por reforço, para lidar com problemas que seriam impraticáveis para a programação dinâmica clássica~\cite{powell2007approximate}.
+Outra abordagem inovadora é a Programação Dinâmica Aproximada \textit{Approximate Dynamic Programming} (ADP), que procura resolver problemas de decisão sequencial sob incerteza, especialmente em contextos em que o espaço de estados é grande ou contínuo. A ADP faz uso de técnicas de aproximação, como a aprendizagem por reforço, para lidar com problemas que seriam impraticáveis para a programação dinâmica clássica~\cite{Powell2007}.
 
 \subsubsection{Algoritmo Fast-DT}
 
-Além disso, o algoritmo Fast-DT, um método de programação dinâmica para detecção rápida de comunidades em redes complexas, apresenta uma forma eficaz de identificar comunidades de grande escala em redes com até milhões de nós, superando assim limitações de escalabilidade de métodos anteriores~\cite{li2018fast}. 
+Além disso, o algoritmo Fast-DT, um método de programação dinâmica para detecção rápida de comunidades em redes complexas, apresenta uma forma eficaz de identificar comunidades de grande escala em redes com até milhões de nós, superando assim limitações de escalabilidade de métodos anteriores~\cite{Li2018}. 
 
 Embora estes algoritmos ainda não sejam tão amplamente utilizados como seus predecessores clássicos, eles representam avanços significativos na área da programação dinâmica e prometem expandir a aplicabilidade desta técnica a uma gama ainda mais ampla de problemas.

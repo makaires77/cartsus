@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.14)  4 JUL 2023 10:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.14)  4 JUL 2023 10:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -190,39 +190,39 @@ LaTeX Warning: Citation `Weng2020' on page 2 undefined on input line 10.
 
 ) (./02_objetivos.tex
 
-LaTeX Warning: Citation `Zhang2020' on page 2 undefined on input line 1.
+LaTeX Warning: Citation `Zhang2020' on page 2 undefined on input line 3.
 
 ) (./03_metodologia.tex) (./04_revisão-bibliográfica.tex
 
-LaTeX Warning: Citation `bellman1957dynamic' on page 2 undefined on input line 3.
-
-
-LaTeX Warning: Citation `cormen2009introduction' on page 2 undefined on input line 12.
+LaTeX Warning: Citation `Bellman1957' on page 2 undefined on input line 3.
 
 [2]
+
+LaTeX Warning: Citation `CormenLeisersonRivestStein2009' on page 3 undefined on input line 12.
+
 
 LaTeX Warning: Citation `dijkstra1959note' on page 3 undefined on input line 14.
 
 
-LaTeX Warning: Citation `cormen2009introduction' on page 3 undefined on input line 14.
+LaTeX Warning: Citation `CormenLeisersonRivestStein2009' on page 3 undefined on input line 14.
 
 
-LaTeX Warning: Citation `bellman1957dynamic' on page 3 undefined on input line 18.
+LaTeX Warning: Citation `Bellman1957' on page 3 undefined on input line 18.
 
 
-LaTeX Warning: Citation `cormen2009introduction' on page 3 undefined on input line 22.
+LaTeX Warning: Citation `CormenLeisersonRivestStein2009' on page 3 undefined on input line 22.
 
 [3]
 
 LaTeX Warning: Citation `murphy1999loopy' on page 4 undefined on input line 30.
 
 
-LaTeX Warning: Citation `powell2007approximate' on page 4 undefined on input line 34.
+LaTeX Warning: Citation `Powell2007' on page 4 undefined on input line 34.
 
 
-LaTeX Warning: Citation `li2018fast' on page 4 undefined on input line 38.
+LaTeX Warning: Citation `Li2018' on page 4 undefined on input line 38.
 
-) (./00_projeto.bbl) [4] (./00_projeto.aux)
+) (./00_projeto.bbl [4]) [5] (./00_projeto.aux)
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
@@ -236,18 +236,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4500 strings out of 475734
- 75950 string characters out of 5786229
+ 4495 strings out of 475734
+ 75888 string characters out of 5786229
  1862753 words of memory out of 5000000
  25159 multiletter control sequences out of 15000+600000
- 518489 words of font info for 88 fonts, out of 8000000 for 9000
+ 517879 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,1453b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,1453b,351s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 00_projeto.pdf (6 pages, 101475 bytes).
+Output written on 00_projeto.pdf (7 pages, 105659 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18433 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 14337 words of extra memory for PDF output out of 14400 (max. 10000000)
 
